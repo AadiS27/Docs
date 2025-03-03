@@ -1,4 +1,4 @@
-# 📄 Google Docs Clone with Tiptap Editor
+# 📄 Texo with Tiptap Editor
 
 This project is a web-based document editor inspired by Google Docs. It is built using the [Tiptap Editor](https://tiptap.dev/) and provides real-time collaboration, rich text editing, and document management features.
 
